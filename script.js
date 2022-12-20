@@ -127,7 +127,7 @@ console.log(typeof variable);
 // friends.shift(); // Removes elements from the start of an array
 // console.log(friends);
 
-// //IndexOf - checks the index of a value (caplocs and type specific)
+// //IndexOf - checks the index of a value (caplocks and type specific)
 // //  -1 if not in array
 // console.log(friends.indexOf("kari"));
 // console.log(friends.indexOf("1990"));
@@ -260,3 +260,9 @@ function calcAverage(arr) {
 
   return Math.trunc(sum / arr.length);
 }
+console.log("hi");
+
+// TODO;
+// FIXME;
+// VIDEO;
+// BUG;
